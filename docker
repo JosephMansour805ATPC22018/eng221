@@ -1,0 +1,35 @@
+----traefik------------------------------
+sudo docker network create --driver=overlay traefik-net
+sudo docker service create \
+    --name traefik \
+    --constraint=node.role==manager \
+    --publish 80:80 --publish 8080:8080 \
+    --mount type=bind,source=/var/run/docker.sock,target=/var/run/docker.sock \
+    --network traefik-net \
+    traefik \
+    --docker \
+    --docker.swarmMode \
+    --docker.domain=traefik \
+    --docker.watch \
+    --api
+
+sudo docker service create \
+    --name whoami \
+    --constraint=node.role==worker \
+    --replicas 2 \
+    --label traefik.port=80 \
+    --network traefik-net \
+    --label traefik.backend.loadbalancer.sticky=true \
+    emilevauge/whoami
+
+sudo docker service create \
+    --name whoami0 \
+    --replicas 2 \
+    --label traefik.port=80 \
+    --network traefik-net \
+    emilevauge/whoami
+
+docker service create --name lbapp1 --replicas 2 -p 81:80 katacoda/docker-http-server 
+
+curl -c cookies.txt -H Host:whoami.traefik localhost
+curl -b cookies.txt -H Host:whoami.traefik localhost
