@@ -13,3 +13,4 @@
 <li> kubectl apply -f https://raw.githubusercontent.com/JosephMansour805ATPC22018/eng221/master/ingrrules.yaml
   
 ### Swarm
+check the file docker 
