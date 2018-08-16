@@ -5,8 +5,7 @@ metadata:
   name: traefik-ingress
   namespace: kube-system
   annotations:
-    traefik.ingress.kubernetes.io/affinity: "cookie"
-    traefik.ingress.kubernetes.io/session-cookie-name: "route"   
+    traefik.ingress.kubernetes.io/affinity: "true"
 spec:
   rules:
   - host: mon.machine.kubernetes
