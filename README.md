@@ -18,7 +18,7 @@
 <li> kubectl apply -f https://raw.githubusercontent.com/containous/traefik/master/examples/k8s/traefik-rbac.yaml
 <li> kubectl apply -f https://raw.githubusercontent.com/containous/traefik/master/examples/k8s/traefik-deployment.yaml
 <li> kubectl apply -f https://raw.githubusercontent.com/JosephMansour805ATPC22018/eng221/master/kubernetes/traefik/ingrules.yaml
-<li> echo "ma.machine.kubernetes" | sudo tee -a /etc/hosts
+<li> echo "<i> IP </i> ma.machine.kubernetes" | sudo tee -a /etc/hosts
   
 ### Swarm
 swarm/traefik/deploy.yaml
