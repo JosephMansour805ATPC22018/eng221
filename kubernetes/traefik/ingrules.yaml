@@ -8,7 +8,7 @@ metadata:
     traefik.ingress.kubernetes.io/affinity: "true"
 spec:
   rules:
-  - host: mon.machine.kubernetes
+  - host: ma.machine.kubernetes
     http:
       paths:
       - path: /wa
