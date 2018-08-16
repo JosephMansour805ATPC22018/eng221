@@ -23,7 +23,7 @@ metadata:
     traefik.ingress.kubernetes.io/session-cookie-name: "route"   
 spec:
   rules:
-  - host: traefik-ui.minikube
+  - host: mon.machine.kubernetes
     http:
       paths:
       - path: /wa
