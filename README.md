@@ -1,5 +1,5 @@
 # eng221 
-## exemples pour presentation
+## exemples pour la presentation
 ### Kubernetes
 #### Nginx
 <li> kubectl apply -f https://raw.githubusercontent.com/JosephMansour805ATPC22018/eng221/master/kubernetes/backend.yaml
