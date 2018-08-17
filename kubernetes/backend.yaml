@@ -22,6 +22,7 @@ metadata:
   name: webapp-svc
   labels:
     app: webapp
+    traefik.ingress.kubernetes.io/affinity: "true"
 spec:
   ports:
   - port: 80
