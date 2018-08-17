@@ -5,7 +5,6 @@ metadata:
   annotations:
     kubernetes.io/ingress.class: "traefik"
     traefik.frontend.rule.type: "PathPrefixStrip"
-    traefik.ingress.kubernetes.io/affinity: "true"
 spec:
   rules:
   - host: ma.machine.kubernetes
