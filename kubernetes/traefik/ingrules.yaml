@@ -11,7 +11,7 @@ spec:
   - host: ma.machine.kubernetes
     http:
       paths:
-      - path: /wa
+      - path: /
         backend:
           serviceName: webapp-svc
           servicePort: 80
