@@ -3,9 +3,9 @@ kind: Ingress
 metadata:
   name: traefik-ingress
   annotations:
-    kubernetes.io/ingress.class: traefik
-    traefik.frontend.rule.type: PathPrefixStrip
-    traefik.backend.loadbalancer.stickiness: true
+    kubernetes.io/ingress.class: "traefik"
+    traefik.frontend.rule.type: "PathPrefixStrip"
+    traefik.backend.loadbalancer.stickiness: "true"   
 spec:
   rules:
   - host: ma.machine.kubernetes
@@ -15,5 +15,3 @@ spec:
         backend:
           serviceName: webapp-svc
           servicePort: 80
-          
- 
