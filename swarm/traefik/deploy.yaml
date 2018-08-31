@@ -14,22 +14,14 @@ sudo docker service create \
     --api
 
 sudo docker service create \
-    --name whoami \
+    --name quelconteneur \
     --constraint=node.role==worker \
     --replicas 2 \
     --label traefik.port=80 \
     --network traefik-net \
     --label traefik.backend.loadbalancer.sticky=true \
-    emilevauge/whoami
+    quelconteneur:v1
+ 
 
-sudo docker service create \
-    --name whoami0 \
-    --replicas 2 \
-    --label traefik.port=80 \
-    --network traefik-net \
-    emilevauge/whoami
-
-docker service create --name lbapp1 --replicas 2 -p 81:80 katacoda/docker-http-server 
-
-curl -c cookies.txt -H Host:whoami.traefik localhost
-curl -b cookies.txt -H Host:whoami.traefik localhost
+curl -c cookies.txt -H Host:quelconteneur.traefik localhost
+curl -b cookies.txt -H Host:quelconteneur.traefik localhost
