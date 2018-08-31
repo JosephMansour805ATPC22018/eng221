@@ -20,6 +20,7 @@ sudo docker service create \
     --label traefik.port=80 \
     --network traefik-net \
     --label traefik.backend.loadbalancer.sticky=true \
+    --label traefik.backend.loadbalancer.swarm=true \
     quelconteneur:v1
  
 
