@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: emilevauge/whoami
+        image: quelconteneur:v1
         ports:
         - containerPort: 80
 ---
