@@ -1,6 +1,6 @@
 ----traefik------------------------------
-sudo docker network create --driver=overlay traefik-net
-sudo docker service create \
+docker network create --driver=overlay traefik-net
+docker service create \
     --name traefik \
     --constraint=node.role==manager \
     --publish 80:80 --publish 8080:8080 \
@@ -13,7 +13,7 @@ sudo docker service create \
     --docker.watch \
     --api
 
-sudo docker service create \
+docker service create \
     --name quelconteneur \
     --constraint=node.role==worker \
     --replicas 2 \
