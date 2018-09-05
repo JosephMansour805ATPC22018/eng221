@@ -12,5 +12,5 @@ spec:
       paths:
       - path: /
         backend:
-          serviceName: webapp-svc
+          serviceName: quelconteneur
           servicePort: 80
