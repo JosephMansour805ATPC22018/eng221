@@ -1,160 +1,160 @@
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt 
-curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt
+curl -c cookies.txt -H Host:quelconteneur.traefik docker  > osc.txt 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt &
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt & 
+curl -b cookies.txt -H Host:quelconteneur.traefik docker  >> osc.txt &
