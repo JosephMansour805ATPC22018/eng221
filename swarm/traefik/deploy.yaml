@@ -19,7 +19,7 @@ docker service create \
     --replicas 2 \
     --label traefik.port=80 \
     --network traefik-net \
-    --label traefik.backend.loadbalancer.sticky=true \
+    --label traefik.backend.loadbalancer.stickiness=true \
     --label traefik.backend.loadbalancer.swarm=true \
     quelconteneur:v1
  
