@@ -12,4 +12,4 @@
 ## Swarm
 ### Traefik, quelconteneur
 <li> wget https://raw.githubusercontent.com/JosephMansour805ATPC22018/eng221/master/swarm/traefik/stack.yml 
-<li> dicker stack deply --compose-file stack.yml stack1
+<li> dicker stack deploy --compose-file stack.yml stack1
