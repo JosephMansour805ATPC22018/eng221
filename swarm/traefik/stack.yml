@@ -19,18 +19,32 @@ services:
     deploy:
       placement:
         constraints: [node.role==manager]
-  quelconteneur:
+  appweb-sc:
     image: quelconteneur:v1
     deploy:
       placement:
         constraints:
           - node.role == worker
-      replicas: 4
+      replicas: 2
       labels:
         - "traefik.port=80"
         - "traefik.docker.network=traefik-net"
         - "traefik.backend.loadbalancer.stickiness=true"
-        - "traefik.frontend.rule=Host:quelconteneur.traefik"
+        - "traefik.frontend.rule=Host:appweb-sc.traefik"
+    networks:
+      - traefik-net
+  appweb-ec:
+    image: quelconteneur:v1
+    deploy:
+      placement:
+        constraints:
+          - node.role == worker
+      replicas: 2
+      labels:
+        - "traefik.port=80"
+        - "traefik.docker.network=traefik-net"
+        - "traefik.backend.loadbalancer.swarm=true"
+        - "traefik.frontend.rule=Host:appweb-ec.traefik"
     networks:
       - traefik-net
 networks:
